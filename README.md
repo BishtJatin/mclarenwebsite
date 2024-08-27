@@ -1,6 +1,10 @@
 # mclarenwebsite
 McLaren Sports Car Website Landing Page. The page features a dynamic video background that immerses visitors in the world of McLaren's finest vehicles. 
 
+
+![Screenshot 2024-08-27 185036](https://github.com/user-attachments/assets/e692b783-de58-46ff-a028-f4088286dfcf)
+
+
 ✨ Key Highlights:
 
 📺 Immersive Videos: The page boasts stunning background videos that capture the heart-pounding performance of different McLaren models. With a simple click, visitors can switch between videos and dive into the unique features of each vehicle.
